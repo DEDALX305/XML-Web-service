@@ -1,0 +1,18 @@
+C:\Users\ALEX\Desktop\3_Lab\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\ALEX\Desktop\3_Lab\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\ALEX\Desktop\3_Lab\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\ALEX\Desktop\3_Lab\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\ALEX\Desktop\3_Lab\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\ALEX\Desktop\3_Lab\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\ALEX\Desktop\3_Lab\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\ALEX\Desktop\3_Lab\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\ALEX\Desktop\3_Lab\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\Институт, work и др\Google Диск\Институт\7 Введение в сервис-ориентированные архитектуры\Лаболаторные проекты VS\3_Lab\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\Институт, work и др\Google Диск\Институт\7 Введение в сервис-ориентированные архитектуры\Лаболаторные проекты VS\3_Lab\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\Институт, work и др\Google Диск\Институт\7 Введение в сервис-ориентированные архитектуры\Лаболаторные проекты VS\3_Lab\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\Институт, work и др\Google Диск\Институт\7 Введение в сервис-ориентированные архитектуры\Лаболаторные проекты VS\3_Lab\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\Институт, work и др\Google Диск\Институт\7 Введение в сервис-ориентированные архитектуры\Лаболаторные проекты VS\3_Lab\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\Институт, work и др\Google Диск\Институт\7 Введение в сервис-ориентированные архитектуры\Лаболаторные проекты VS\3_Lab\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Институт, work и др\Google Диск\Институт\7 Введение в сервис-ориентированные архитектуры\Лаболаторные проекты VS\3_Lab\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\Институт, work и др\Google Диск\Институт\7 Введение в сервис-ориентированные архитектуры\Лаболаторные проекты VS\3_Lab\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Институт, work и др\Google Диск\Институт\7 Введение в сервис-ориентированные архитектуры\Лаболаторные проекты VS\3_Lab\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb

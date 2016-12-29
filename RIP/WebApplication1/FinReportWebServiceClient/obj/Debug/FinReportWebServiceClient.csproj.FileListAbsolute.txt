@@ -1,0 +1,20 @@
+C:\Users\ALEX\Desktop\3_Lab\WebApplication1\FinReportWebServiceClient\bin\Debug\FinReportWebServiceClient.exe.config
+C:\Users\ALEX\Desktop\3_Lab\WebApplication1\FinReportWebServiceClient\bin\Debug\FinReportWebServiceClient.exe
+C:\Users\ALEX\Desktop\3_Lab\WebApplication1\FinReportWebServiceClient\bin\Debug\FinReportWebServiceClient.pdb
+C:\Users\ALEX\Desktop\3_Lab\WebApplication1\FinReportWebServiceClient\obj\Debug\FinReportWebServiceClient.csprojResolveAssemblyReference.cache
+C:\Users\ALEX\Desktop\3_Lab\WebApplication1\FinReportWebServiceClient\obj\Debug\FinReportWebServiceClient.Properties.Resources.resources
+C:\Users\ALEX\Desktop\3_Lab\WebApplication1\FinReportWebServiceClient\obj\Debug\FinReportWebServiceClient.csproj.GenerateResource.Cache
+C:\Users\ALEX\Desktop\3_Lab\WebApplication1\FinReportWebServiceClient\obj\Debug\FinReportWebServiceClient.exe
+C:\Users\ALEX\Desktop\3_Lab\WebApplication1\FinReportWebServiceClient\obj\Debug\FinReportWebServiceClient.pdb
+C:\Users\ALEX\Desktop\3_Lab\WebApplication1\FinReportWebServiceClient\obj\Debug\FinReportWebServiceClient.Form1.resources
+E:\Институт, work и др\Google Диск\Институт\7 Введение в сервис-ориентированные архитектуры\Лаболаторные проекты VS\3_Lab\WebApplication1\FinReportWebServiceClient\bin\Debug\ApplicationInsights.config
+E:\Институт, work и др\Google Диск\Институт\7 Введение в сервис-ориентированные архитектуры\Лаболаторные проекты VS\3_Lab\WebApplication1\FinReportWebServiceClient\bin\Debug\FinReportWebServiceClient.exe.config
+E:\Институт, work и др\Google Диск\Институт\7 Введение в сервис-ориентированные архитектуры\Лаболаторные проекты VS\3_Lab\WebApplication1\FinReportWebServiceClient\bin\Debug\FinReportWebServiceClient.exe
+E:\Институт, work и др\Google Диск\Институт\7 Введение в сервис-ориентированные архитектуры\Лаболаторные проекты VS\3_Lab\WebApplication1\FinReportWebServiceClient\bin\Debug\FinReportWebServiceClient.pdb
+E:\Институт, work и др\Google Диск\Институт\7 Введение в сервис-ориентированные архитектуры\Лаболаторные проекты VS\3_Lab\WebApplication1\FinReportWebServiceClient\bin\Debug\WebApplication1.dll
+E:\Институт, work и др\Google Диск\Институт\7 Введение в сервис-ориентированные архитектуры\Лаболаторные проекты VS\3_Lab\WebApplication1\FinReportWebServiceClient\bin\Debug\WebApplication1.pdb
+E:\Институт, work и др\Google Диск\Институт\7 Введение в сервис-ориентированные архитектуры\Лаболаторные проекты VS\3_Lab\WebApplication1\FinReportWebServiceClient\obj\Debug\FinReportWebServiceClient.Form1.resources
+E:\Институт, work и др\Google Диск\Институт\7 Введение в сервис-ориентированные архитектуры\Лаболаторные проекты VS\3_Lab\WebApplication1\FinReportWebServiceClient\obj\Debug\FinReportWebServiceClient.Properties.Resources.resources
+E:\Институт, work и др\Google Диск\Институт\7 Введение в сервис-ориентированные архитектуры\Лаболаторные проекты VS\3_Lab\WebApplication1\FinReportWebServiceClient\obj\Debug\FinReportWebServiceClient.csproj.GenerateResource.Cache
+E:\Институт, work и др\Google Диск\Институт\7 Введение в сервис-ориентированные архитектуры\Лаболаторные проекты VS\3_Lab\WebApplication1\FinReportWebServiceClient\obj\Debug\FinReportWebServiceClient.exe
+E:\Институт, work и др\Google Диск\Институт\7 Введение в сервис-ориентированные архитектуры\Лаболаторные проекты VS\3_Lab\WebApplication1\FinReportWebServiceClient\obj\Debug\FinReportWebServiceClient.pdb
